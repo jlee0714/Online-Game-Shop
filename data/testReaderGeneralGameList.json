@@ -1,0 +1,18 @@
+{
+    "Games": [
+        {
+            "name": "overwatch",
+            "Description": "fps",
+            "Price": 30,
+            "Category": "fps",
+            "Difficulty": "HARD"
+        },
+        {
+            "name": "fifa",
+            "Description": "sport",
+            "Price": 15,
+            "Category": "sport",
+            "Difficulty": "EASY"
+        }
+    ]
+}
